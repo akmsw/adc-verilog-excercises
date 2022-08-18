@@ -1,4 +1,4 @@
-module tarea1
+module e1
   (
     input wire in1,
     input wire in2,
