@@ -1,5 +1,5 @@
 module e1
-  (
+ #(
     input wire in1,
     input wire in2,
     input wire in3,
